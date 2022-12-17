@@ -1,85 +1,85 @@
-course_number,level,instructor
-ARTS 101,100,Tram Luong
-ARTS 101,100,Richard Streitmatter-Tran
-ARTS 102,100,Pamela Corey
-ARTS 104,100,Aaron Toronto
-ARTS 107,100,Richard Streitmatter-Tran
-ARTS 206,200,Aaron Toronto
-ARTS 211,200,Linda Zhang
-ARTS 303,300,Jacqueline Hoang-Nguyen
-ARTS 398,300,Pamela Corey
-CORE 101,100,Tobias Burgers
-CORE 101,100,Mark Frank
-CORE 101,100,Matthew McDonald
-CORE 101,100,Ian Kalman
-CORE 101,100,Linda Zhang
-CORE 101,100,Elsa Costa
-CORE 103,100,Ngoc Phan
-CORE 103,100,Trung Phan
-CORE 103,100,Linh Huynh
-CORE 103,100,Lan Nguyen
-CORE 103,100,Hoang Khieu
-CORE 104,100,Dung Nguyen
-CORE 104,100,Trang Nguyen
-CORE 104,100,Huyen Trang Nguyen
-CORE 104,100,Hoa Nguyen
-CORE 105,100,Kien Truong
-CORE 105,100,Minh Nguyen
-CORE 105,100,Duong Phung
-CORE 105,100,Minh Doan
-CORE 105,100,Quan Le
-CS101,100,Trung Phan
-CS102,100,Linh Huynh
-CS203,200,Kien Truong
-CS208,200,Dang Huynh
-CS306,300,Nhut Nguyen
-CS307,300,Vincent Ng
-CS309,300,Synh Ha
-ECON101,100,Lan Nguyen
-ECON103,100,Hoang Khieu
-ECON209,200,Ngoc Phan
-ECON210,200,"Dana Doan, Graeme Walker"
-ECON302,300,Hoang Khieu
-ECON305,300,Graeme Walker
-ENG102,100,Minh Doan
-ENG201,200,Quan Le
-ENG202,200,Duong Phung
-ENG204,200,Minh Nguyen
-HIS105,100,Antoine Le
-HIS108,100,Sean Fear
-HIS301,300,Hoang Vu
-HIS304,300,Mark Frank
-HIS306,300,Elsa Costa
-IS101,100,Dung Nguyen
-IS103,100,Huyen Trang Nguyen
-IS205,200,Trang Nguyen
-LIT101,100,Isadora Wagner
-LIT103,100,Yen Vu
-LIT303,300,Yen Vu
-LIT305,300,Isadora Wagner
-MATH101,100,Hieu Nguyen
-MATH103,100,Hieu Nguyen
-MATH105,100,Son Van
-MATH102,100,Son Van
-MATH305,300,Tan Le
-PSY101,100,Thi Lan Nguyen
-PSY203,200,Gary Giss
-PSY204,200,Nga Hoang
-PSY205,200,Matthew McDonald
-PSY207,200,Thi Lan Nguyen
-PSY302,300,Nga Hoang
-SOCI102,100,Ian Kalman
-SOCI105,100,Phuong Vu
-SOCI109,100,Tram Luong
-SOCI211,200,Tobias Burgers
-SOCI212,200,Nankyung Choi
-SOCI213,200,Nankyung Choi
-VS106,100,Van Phan
-VS114,100,Nicolas Weber
-VS116,100,"Nam Nguyen, Trung Phan"
-VS203,200,Trung Nguyen
-VS204,200,Nam Nguyen
-VS210,200,Na Dao
-VS214,200,Nam Nguyen
-VS215,200,Trung Nguyen
-VS303,300,Nicolas Weber
+course_number,capacity,instructor
+ARTS 101,50,Tram Luong
+ARTS 101,50,Richard Streitmatter-Tran
+ARTS 102,50,Pamela Corey
+ARTS 104,50,Aaron Toronto
+ARTS 107,50,Richard Streitmatter-Tran
+ARTS 206,40,Aaron Toronto
+ARTS 211,40,Linda Zhang
+ARTS 303,25,Jacqueline Hoang-Nguyen
+ARTS 398,25,Pamela Corey
+CORE 101,50,Tobias Burgers
+CORE 101,50,Mark Frank
+CORE 101,50,Matthew McDonald
+CORE 101,50,Ian Kalman
+CORE 101,50,Linda Zhang
+CORE 101,50,Elsa Costa
+CORE 103,50,Ngoc Phan
+CORE 103,50,Trung Phan
+CORE 103,50,Linh Huynh
+CORE 103,50,Lan Nguyen
+CORE 103,50,Hoang Khieu
+CORE 104,50,Dung Nguyen
+CORE 104,50,Trang Nguyen
+CORE 104,50,Huyen Trang Nguyen
+CORE 104,50,Hoa Nguyen
+CORE 105,50,Kien Truong
+CORE 105,50,Minh Nguyen
+CORE 105,50,Duong Phung
+CORE 105,50,Minh Doan
+CORE 105,50,Quan Le
+CS101,50,Trung Phan
+CS102,50,Linh Huynh
+CS203,40,Kien Truong
+CS208,40,Dang Huynh
+CS306,25,Nhut Nguyen
+CS307,25,Vincent Ng
+CS309,25,Synh Ha
+ECON101,50,Lan Nguyen
+ECON103,50,Hoang Khieu
+ECON209,40,Ngoc Phan
+ECON210,40,"Dana Doan, Graeme Walker"
+ECON302,25,Hoang Khieu
+ECON305,25,Graeme Walker
+ENG102,50,Minh Doan
+ENG201,40,Quan Le
+ENG202,40,Duong Phung
+ENG204,40,Minh Nguyen
+HIS105,50,Antoine Le
+HIS108,50,Sean Fear
+HIS301,25,Hoang Vu
+HIS304,25,Mark Frank
+HIS306,25,Elsa Costa
+IS101,50,Dung Nguyen
+IS103,50,Huyen Trang Nguyen
+IS205,40,Trang Nguyen
+LIT101,50,Isadora Wagner
+LIT103,50,Yen Vu
+LIT303,25,Yen Vu
+LIT305,25,Isadora Wagner
+MATH101,50,Hieu Nguyen
+MATH103,50,Hieu Nguyen
+MATH105,50,Son Van
+MATH102,50,Son Van
+MATH305,25,Tan Le
+PSY101,50,Thi Lan Nguyen
+PSY203,40,Gary Giss
+PSY204,40,Nga Hoang
+PSY205,40,Matthew McDonald
+PSY207,40,Thi Lan Nguyen
+PSY302,25,Nga Hoang
+SOCI102,50,Ian Kalman
+SOCI105,50,Phuong Vu
+SOCI109,50,Tram Luong
+SOCI211,40,Tobias Burgers
+SOCI212,40,Nankyung Choi
+SOCI213,40,Nankyung Choi
+VS106,50,Van Phan
+VS114,50,Nicolas Weber
+VS116,50,"Nam Nguyen, Trung Phan"
+VS203,40,Trung Nguyen
+VS204,40,Nam Nguyen
+VS210,40,Na Dao
+VS214,40,Nam Nguyen
+VS215,40,Trung Nguyen
+VS303,25,Nicolas Weber
