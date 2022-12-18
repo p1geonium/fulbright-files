@@ -1,1 +1,41 @@
-slotid,timeTS1,7h30-9hTS2,9h-10h30TS3,10h30-12hTS4,12h30-14hTS5,14h-15h30TS6,15h30-17hTS7,17h-18h30TS8,18h30-20h
+slotid,time
+M1,Monday 7h30-9h
+M2,Monday 9h-10h30
+M3,Monday 10h30-12h
+M4,Monday 12h30-14h
+M5,Monday 14h-15h30
+M6,Monday 15h30-17h
+M7,Monday 17h-18h30
+M8,Monday 18h30-20h
+T1,Tuesday 7h30-9h
+T2,Tuesday 9h-10h30
+T3,Tuesday 10h30-12h
+T4,Tuesday 12h30-14h
+T5,Tuesday 14h-15h30
+T6,Tuesday 15h30-17h
+T7,Tuesday 17h-18h30
+T8,Tuesday 18h30-20h
+W1,Wednesday 7h30-9h
+W2,Wednesday 9h-10h30
+W3,Wednesday 10h30-12h
+W4,Wednesday 12h30-14h
+W5,Wednesday 14h-15h30
+W6,Wednesday 15h30-17h
+W7,Wednesday 17h-18h30
+W8,Wednesday 18h30-20h
+TH1,Thursday 7h30-9h
+TH2,Thursday 9h-10h30
+TH3,Thursday 10h30-12h
+TH4,Thursday 12h30-14h
+TH5,Thursday 14h-15h30
+TH6,Thursday 15h30-17h
+TH7,Thursday 17h-18h30
+TH8,Thursday 18h30-20h
+F1,Friday 7h30-9h
+F2,Friday 9h-10h30
+F3,Friday 10h30-12h
+F4,Friday 12h30-14h
+F5,Friday 14h-15h30
+F6,Friday 15h30-17h
+F7,Friday 17h-18h30
+F8,Friday 18h30-20h
