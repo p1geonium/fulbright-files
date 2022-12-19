@@ -1,4 +1,4 @@
-﻿slotid,time
+slotid,time
 M1,Monday 7h30-9h
 M2,Monday 9h-10h30
 M3,Monday 10h30-12h
@@ -23,14 +23,14 @@ W5,Wednesday 14h-15h30
 W6,Wednesday 15h30-17h
 W7,Wednesday 17h-18h30
 W8,Wednesday 18h30-20h
-TH1,Thursday 7h30-9h
-TH2,Thursday 9h-10h30
-TH3,Thursday 10h30-12h
-TH4,Thursday 12h30-14h
-TH5,Thursday 14h-15h30
-TH6,Thursday 15h30-17h
-TH7,Thursday 17h-18h30
-TH8,Thursday 18h30-20h
+H1,Thursday 7h30-9h
+H2,Thursday 9h-10h30
+H3,Thursday 10h30-12h
+H4,Thursday 12h30-14h
+H5,Thursday 14h-15h30
+H6,Thursday 15h30-17h
+H7,Thursday 17h-18h30
+H8,Thursday 18h30-20h
 F1,Friday 7h30-9h
 F2,Friday 9h-10h30
 F3,Friday 10h30-12h
