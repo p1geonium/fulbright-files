@@ -1,85 +1,85 @@
-course_number,capacity,instructor
-ARTS 101,50,Tram Luong
-ARTS 101,50,Richard Streitmatter-Tran
-ARTS 102,50,Pamela Corey
-ARTS 104,50,Aaron Toronto
-ARTS 107,50,Richard Streitmatter-Tran
-ARTS 206,40,Aaron Toronto
-ARTS 211,40,Linda Zhang
-ARTS 303,25,Jacqueline Hoang-Nguyen
-ARTS 398,25,Pamela Corey
-CORE 101,50,Tobias Burgers
-CORE 101,50,Mark Frank
-CORE 101,50,Matthew McDonald
-CORE 101,50,Ian Kalman
-CORE 101,50,Linda Zhang
-CORE 101,50,Elsa Costa
-CORE 103,50,Ngoc Phan
-CORE 103,50,Trung Phan
-CORE 103,50,Linh Huynh
-CORE 103,50,Lan Nguyen
-CORE 103,50,Hoang Khieu
-CORE 104,50,Dung Nguyen
-CORE 104,50,Trang Nguyen
-CORE 104,50,Huyen Trang Nguyen
-CORE 104,50,Hoa Nguyen
-CORE 105,50,Kien Truong
-CORE 105,50,Minh Nguyen
-CORE 105,50,Duong Phung
-CORE 105,50,Minh Doan
-CORE 105,50,Quan Le
-CS101,50,Trung Phan
-CS102,50,Linh Huynh
-CS203,40,Kien Truong
-CS208,40,Dang Huynh
-CS306,25,Nhut Nguyen
-CS307,25,Vincent Ng
-CS309,25,Synh Ha
-ECON101,50,Lan Nguyen
-ECON103,50,Hoang Khieu
-ECON209,40,Ngoc Phan
-ECON210,40,Dana Doan
-ECON302,25,Hoang Khieu
-ECON305,25,Graeme Walker
-ENG102,50,Minh Doan
-ENG201,40,Quan Le
-ENG202,40,Duong Phung
-ENG204,40,Minh Nguyen
-HIS105,50,Antoine Le
-HIS108,50,Sean Fear
-HIS301,25,Hoang Vu
-HIS304,25,Mark Frank
-HIS306,25,Elsa Costa
-IS101,50,Dung Nguyen
-IS103,50,Huyen Trang Nguyen
-IS205,40,Trang Nguyen
-LIT101,50,Isadora Wagner
-LIT103,50,Yen Vu
-LIT303,25,Yen Vu
-LIT305,25,Isadora Wagner
-MATH101,50,Hieu Nguyen
-MATH103,50,Hieu Nguyen
-MATH105,50,Son Van
-MATH102,50,Son Van
-MATH305,25,Tan Le
-PSY101,50,Thi Lan Nguyen
-PSY203,40,Gary Giss
-PSY204,40,Nga Hoang
-PSY205,40,Matthew McDonald
-PSY207,40,Thi Lan Nguyen
-PSY302,25,Nga Hoang
-SOCI102,50,Ian Kalman
-SOCI105,50,Phuong Vu
-SOCI109,50,Tram Luong
-SOCI211,40,Tobias Burgers
-SOCI212,40,Nankyung Choi
-SOCI213,40,Nankyung Choi
-VS106,50,Van Phan
-VS114,50,Nicolas Weber
-VS116,50,Nam Nguyen
-VS203,40,Trung Nguyen
-VS204,40,Nam Nguyen
-VS210,40,Na Dao
-VS214,40,Nam Nguyen
-VS215,40,Trung Nguyen
-VS303,25,Nicolas Weber
+﻿course_number,capacity,instructor,name
+ARTS 101-1,50,Tram Luong,Introduction to Visual Studies
+ARTS 101-2,50,Richard Streitmatter-Tran,Introduction to Visual Studies
+ARTS 102,50,Pamela Corey,Introduction to Art History and Theory
+ARTS 104,50,Aaron Toronto,Video and Film Production
+ARTS 107,50,Richard Streitmatter-Tran,2D/3D Foundations
+ARTS 206,40,Aaron Toronto,Principles of Acting
+ARTS 211,40,Linda Zhang,"Alien, Uncanny, Strange in E. Asian Cinema"
+ARTS 303,25,Jacqueline Hoang-Nguyen,Sound Art
+ARTS 398,25,Pamela Corey,Independent Study: Advanced Readings in Theory
+CORE 101-1,50,Tobias Burgers,Global Humanities and Social Change
+CORE 101-2,50,Mark Frank,Global Humanities and Social Change
+CORE 101-3,50,Matthew McDonald,Global Humanities and Social Change
+CORE 101-4,50,Ian Kalman,Global Humanities and Social Change
+CORE 101-5,50,Linda Zhang,Global Humanities and Social Change
+CORE 101-6,50,Elsa Costa,Global Humanities and Social Change
+CORE 103-1,50,Ngoc Phan,Quantitative Reasoning for a Digital Age
+CORE 103-2,50,Trung Phan,Quantitative Reasoning for a Digital Age
+CORE 103-3,50,Linh Huynh,Quantitative Reasoning for a Digital Age
+CORE 103-4,50,Lan Nguyen,Quantitative Reasoning for a Digital Age
+CORE 103-5,50,Hoang Khieu,Quantitative Reasoning for a Digital Age
+CORE 104-1,50,Dung Nguyen,Scientific Inquiry
+CORE 104-2,50,Trang Nguyen,Scientific Inquiry
+CORE 104-3,50,Huyen Trang Nguyen,Scientific Inquiry
+CORE 104-4,50,Hoa Nguyen,Scientific Inquiry
+CORE 105-1,50,Kien Truong,Design and Systems Thinking
+CORE 105-2,50,Minh Nguyen,Design and Systems Thinking
+CORE 105-3,50,Duong Phung,Design and Systems Thinking
+CORE 105-4,50,Minh Doan,Design and Systems Thinking
+CORE 105-5,50,Quan Le,Design and Systems Thinking
+CS101,50,Trung Phan,Computer Science I
+CS102,50,Linh Huynh,Algorithm
+CS203,40,Kien Truong,Computer Organization
+CS208,40,Dang Huynh,Machine Learning for Data Science
+CS306,25,Nhut Nguyen,Network and Computer Security 
+CS307,25,Vincent Ng,Introduction to Machine Learning
+CS309,25,Synh Ha,Advanced Programming Techniques
+ECON101,50,Lan Nguyen,Principles of Economics 1
+ECON103,50,Hoang Khieu,Principles of Economics 2
+ECON209,40,Ngoc Phan,Econometrics
+ECON210,40,Dana Doan,Giving and Effectiveness
+ECON302,25,Hoang Khieu,Economics of Inequality
+ECON305,25,Graeme Walker,Behavioural and Experimental Economics
+ENG102,50,Minh Doan,Engineering Exploration: Sink or Swim
+ENG201,40,Quan Le,Product Development
+ENG202,40,Duong Phung,Intelligent Robot Studio: From Theory to Practice
+ENG204,40,Minh Nguyen,"Sensors, Measurement and Analysis"
+HIS105,50,Antoine Le,Global History Lab: History of the World
+HIS108,50,Sean Fear,US in the World
+HIS301,25,Hoang Vu,History of International Communism
+HIS304,25,Mark Frank,Asian Borderlands
+HIS306,25,Elsa Costa,Race and Empire
+IS101,50,Dung Nguyen,Introductory Biology
+IS103,50,Huyen Trang Nguyen,Environmental Sciences
+IS205,40,Trang Nguyen,Organic Chemistry
+LIT101,50,Isadora Wagner,Foundations in Literary Studies
+LIT103,50,Yen Vu,Critical Methods in Literary Studies
+LIT303,25,Yen Vu,"Film, Fiction, and the Making of Modern Vietnams"
+LIT305,25,Isadora Wagner,Pacific Voyages in Literature & Film
+MATH101,50,Hieu Nguyen,Calculus
+MATH103,50,Hieu Nguyen,Ideas of Math
+MATH105,50,Son Van,Linear Algebra
+MATH102,50,Son Van,Introduction to Data Analysis
+MATH305,25,Tan Le,Stochastic Calculus
+PSY101,50,Thi Lan Nguyen,Introductory Psychology
+PSY203,40,Gary Giss,Social Psychology
+PSY204,40,Nga Hoang,Personality Psychology
+PSY205,40,Matthew McDonald,"Introduction to Psychological Disorders, Diagnosis & Treatment"
+PSY207,40,Thi Lan Nguyen,Organizational Psychology
+PSY302,25,Nga Hoang,Counseling Psychology
+SOCI102,50,Ian Kalman,Social Inquiry And the Social Sciences
+SOCI105,50,Phuong Vu,Research Methods & Statistics
+SOCI109,50,Tram Luong,Ethnographic Research Methods
+SOCI211,40,Tobias Burgers,Introduction to Science and Technology Studies
+SOCI212,40,Nankyung Choi,South Korea: Society and Culture
+SOCI213,40,Nankyung Choi,Women and Politics
+VS106,50,Van Phan,Cultural and Intellectual Foundation of Vietnamese Literary Chinese 1
+VS114,50,Nicolas Weber,Introduction to Champa and Khmer History
+VS116,50,Nam Nguyen,Digital Humanities in Vietnam Studies Contexts I
+VS203,40,Trung Nguyen,The Challenge of Change: Civil Society and Social Movements in Vietnam 
+VS204,40,Nam Nguyen,The Legacy of the War in Retrospect I
+VS210,40,Na Dao,What Movies Show and Don't Show: Film Adaptations in Asian Contexts
+VS214,40,Nam Nguyen,Developing Vietnam
+VS215,40,Trung Nguyen,Contending Theories of International Relations: A Comprehensive View of Vietnam
+VS303,25,Nicolas Weber,Sources for Vietnamese and Southeast Asian History
