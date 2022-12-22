@@ -1,439 +1,439 @@
-﻿course_number,capacity,instructor,name
-ARTS 101-1,50,Tram Luong,Introduction to Visual Studies
-ARTS 101-2,50,Richard Streitmatter-Tran,Introduction to Visual Studies
-ARTS 102,50,Pamela Corey,Introduction to Art History and Theory
-ARTS 104,50,Aaron Toronto,Video and Film Production
-ARTS 107,50,Richard Streitmatter-Tran,2D/3D Foundations
-ARTS 206,40,Aaron Toronto,Principles of Acting
-ARTS 211,40,Linda Zhang,"Alien, Uncanny, Strange in E. Asian Cinema"
-ARTS 303,25,Jacqueline Hoang-Nguyen,Sound Art
-ARTS 398,25,Pamela Corey,Independent Study: Advanced Readings in Theory
-CORE 101-1,50,Tobias Burgers,Global Humanities and Social Change
-CORE 101-2,50,Mark Frank,Global Humanities and Social Change
-CORE 101-3,50,Matthew McDonald,Global Humanities and Social Change
-CORE 101-4,50,Ian Kalman,Global Humanities and Social Change
-CORE 101-5,50,Linda Zhang,Global Humanities and Social Change
-CORE 101-6,50,Elsa Costa,Global Humanities and Social Change
-CORE 103-1,50,Ngoc Phan,Quantitative Reasoning for a Digital Age
-CORE 103-2,50,Trung Phan,Quantitative Reasoning for a Digital Age
-CORE 103-3,50,Linh Huynh,Quantitative Reasoning for a Digital Age
-CORE 103-4,50,Lan Nguyen,Quantitative Reasoning for a Digital Age
-CORE 103-5,50,Hoang Khieu,Quantitative Reasoning for a Digital Age
-CORE 104-1,50,Dung Nguyen,Scientific Inquiry
-CORE 104-2,50,Trang Nguyen,Scientific Inquiry
-CORE 104-3,50,Huyen Trang Nguyen,Scientific Inquiry
-CORE 104-4,50,Hoa Nguyen,Scientific Inquiry
-CORE 105-1,50,Kien Truong,Design and Systems Thinking
-CORE 105-2,50,Minh Nguyen,Design and Systems Thinking
-CORE 105-3,50,Duong Phung,Design and Systems Thinking
-CORE 105-4,50,Minh Doan,Design and Systems Thinking
-CORE 105-5,50,Quan Le,Design and Systems Thinking
-CS101,50,Trung Phan,Computer Science I
-CS102,50,Linh Huynh,Algorithm
-CS203,40,Kien Truong,Computer Organization
-CS208,40,Dang Huynh,Machine Learning for Data Science
-CS306,25,Nhut Nguyen,Network and Computer Security 
-CS307,25,Vincent Ng,Introduction to Machine Learning
-CS309,25,Synh Ha,Advanced Programming Techniques
-ECON101,50,Lan Nguyen,Principles of Economics 1
-ECON103,50,Hoang Khieu,Principles of Economics 2
-ECON209,40,Ngoc Phan,Econometrics
-ECON210,40,Dana Doan,Giving and Effectiveness
-ECON302,25,Hoang Khieu,Economics of Inequality
-ECON305,25,Graeme Walker,Behavioural and Experimental Economics
-ENG102,50,Minh Doan,Engineering Exploration: Sink or Swim
-ENG201,40,Quan Le,Product Development
-ENG202,40,Duong Phung,Intelligent Robot Studio: From Theory to Practice
-ENG204,40,Minh Nguyen,"Sensors, Measurement and Analysis"
-HIS105,50,Antoine Le,Global History Lab: History of the World
-HIS108,50,Sean Fear,US in the World
-HIS301,25,Hoang Vu,History of International Communism
-HIS304,25,Mark Frank,Asian Borderlands
-HIS306,25,Elsa Costa,Race and Empire
-IS101,50,Dung Nguyen,Introductory Biology
-IS103,50,Huyen Trang Nguyen,Environmental Sciences
-IS205,40,Trang Nguyen,Organic Chemistry
-LIT101,50,Isadora Wagner,Foundations in Literary Studies
-LIT103,50,Yen Vu,Critical Methods in Literary Studies
-LIT303,25,Yen Vu,"Film, Fiction, and the Making of Modern Vietnams"
-LIT305,25,Isadora Wagner,Pacific Voyages in Literature & Film
-MATH101,50,Hieu Nguyen,Calculus
-MATH103,50,Hieu Nguyen,Ideas of Math
-MATH105,50,Son Van,Linear Algebra
-MATH102,50,Son Van,Introduction to Data Analysis
-MATH305,25,Tan Le,Stochastic Calculus
-PSY101,50,Thi Lan Nguyen,Introductory Psychology
-PSY203,40,Gary Giss,Social Psychology
-PSY204,40,Nga Hoang,Personality Psychology
-PSY205,40,Matthew McDonald,"Introduction to Psychological Disorders, Diagnosis & Treatment"
-PSY207,40,Thi Lan Nguyen,Organizational Psychology
-PSY302,25,Nga Hoang,Counseling Psychology
-SOCI102,50,Ian Kalman,Social Inquiry And the Social Sciences
-SOCI105,50,Phuong Vu,Research Methods & Statistics
-SOCI109,50,Tram Luong,Ethnographic Research Methods
-SOCI211,40,Tobias Burgers,Introduction to Science and Technology Studies
-SOCI212,40,Nankyung Choi,South Korea: Society and Culture
-SOCI213,40,Nankyung Choi,Women and Politics
-VS106,50,Van Phan,Cultural and Intellectual Foundation of Vietnamese Literary Chinese 1
-VS114,50,Nicolas Weber,Introduction to Champa and Khmer History
-VS116,50,Nam Nguyen,Digital Humanities in Vietnam Studies Contexts I
-VS203,40,Trung Nguyen,The Challenge of Change: Civil Society and Social Movements in Vietnam 
-VS204,40,Nam Nguyen,The Legacy of the War in Retrospect I
-VS210,40,Na Dao,What Movies Show and Don't Show: Film Adaptations in Asian Contexts
-VS214,40,Nam Nguyen,Developing Vietnam
-VS215,40,Trung Nguyen,Contending Theories of International Relations: A Comprehensive View of Vietnam
-VS303,25,Nicolas Weber,Sources for Vietnamese and Southeast Asian History
-CS110,50,Sebastian Vu,Pseudo Course 100
-CS111,50,Nanette Le,Pseudo Course 101
-CS112,50,Tien Truong,Pseudo Course 102
-CS113,50,Cuong Nguyen,Pseudo Course 103
-CS114,50,Jill Pham,Pseudo Course 104
-CS115,50,Vincent Hoang,Pseudo Course 105
-CS220,40,Sebastian Vu,Pseudo Course 106
-CS221,40,Nanette Le,Pseudo Course 107
-CS222,40,Tien Truong,Pseudo Course 108
-CS223,40,Cuong Nguyen,Pseudo Course 109
-CS224,40,Jill Pham,Pseudo Course 110
-CS225,40,Vincent Hoang,Pseudo Course 111
-CS330,25,Sebastian Vu,Pseudo Course 112
-CS331,25,Nanette Le,Pseudo Course 113
-CS332,25,Tien Truong,Pseudo Course 114
-CS333,25,Cuong Nguyen,Pseudo Course 115
-CS334,25,Jill Pham,Pseudo Course 116
-CS335,25,Vincent Hoang,Pseudo Course 117
-ARTS110,50,John Le,Pseudo Course 118
-ARTS111,50,Bruce Dang,Pseudo Course 119
-ARTS112,50,David Bui,Pseudo Course 120
-ARTS113,50,Linh Phan,Pseudo Course 121
-ARTS114,50,Hoang Lee,Pseudo Course 122
-ARTS115,50,Lan Hua,Pseudo Course 123
-ARTS220,40,John Le,Pseudo Course 124
-ARTS221,40,Bruce Dang,Pseudo Course 125
-ARTS222,40,David Bui,Pseudo Course 126
-ARTS223,40,Linh Phan,Pseudo Course 127
-ARTS224,40,Hoang Lee,Pseudo Course 128
-ARTS225,40,Lan Hua,Pseudo Course 129
-ARTS330,25,John Le,Pseudo Course 130
-ARTS331,25,Bruce Dang,Pseudo Course 131
-ARTS332,25,David Bui,Pseudo Course 132
-ARTS333,25,Linh Phan,Pseudo Course 133
-ARTS334,25,Hoang Lee,Pseudo Course 134
-ARTS335,25,Lan Hua,Pseudo Course 135
-ECON110,50,Thomas Luong,Pseudo Course 136
-ECON111,50,Ha Dinh,Pseudo Course 137
-ECON112,50,Vinh Huynh,Pseudo Course 138
-ECON113,50,Dan Nguyen,Pseudo Course 139
-ECON114,50,Daniel Chu,Pseudo Course 140
-ECON115,50,Richard Le,Pseudo Course 141
-ECON220,40,Thomas Luong,Pseudo Course 142
-ECON221,40,Ha Dinh,Pseudo Course 143
-ECON222,40,Vinh Huynh,Pseudo Course 144
-ECON223,40,Dan Nguyen,Pseudo Course 145
-ECON224,40,Daniel Chu,Pseudo Course 146
-ECON225,40,Richard Le,Pseudo Course 147
-ECON330,25,Thomas Luong,Pseudo Course 148
-ECON331,25,Ha Dinh,Pseudo Course 149
-ECON332,25,Vinh Huynh,Pseudo Course 150
-ECON333,25,Dan Nguyen,Pseudo Course 151
-ECON334,25,Daniel Chu,Pseudo Course 152
-ECON335,25,Richard Le,Pseudo Course 153
-ENG110,50,Phuong Ho,Pseudo Course 154
-ENG111,50,Khang Trinh,Pseudo Course 155
-ENG112,50,Khanh Nguyen,Pseudo Course 156
-ENG113,50,Huyen Pham,Pseudo Course 157
-ENG114,50,Minh Phan,Pseudo Course 158
-ENG115,50,Tyler Tran,Pseudo Course 159
-ENG220,40,Phuong Ho,Pseudo Course 160
-ENG221,40,Khang Trinh,Pseudo Course 161
-ENG222,40,Khanh Nguyen,Pseudo Course 162
-ENG223,40,Huyen Pham,Pseudo Course 163
-ENG224,40,Minh Phan,Pseudo Course 164
-ENG225,40,Tyler Tran,Pseudo Course 165
-ENG330,25,Phuong Ho,Pseudo Course 166
-ENG331,25,Khang Trinh,Pseudo Course 167
-ENG332,25,Khanh Nguyen,Pseudo Course 168
-ENG333,25,Huyen Pham,Pseudo Course 169
-ENG334,25,Minh Phan,Pseudo Course 170
-ENG335,25,Tyler Tran,Pseudo Course 171
-MATH110,50,Anh Trinh,Pseudo Course 172
-MATH111,50,Anh Hoang,Pseudo Course 173
-MATH112,50,Trung Tran,Pseudo Course 174
-MATH113,50,Lan Lee,Pseudo Course 175
-MATH114,50,Ngoc Nguyen,Pseudo Course 176
-MATH115,50,Vy Dang,Pseudo Course 177
-MATH220,40,Anh Trinh,Pseudo Course 178
-MATH221,40,Anh Hoang,Pseudo Course 179
-MATH222,40,Trung Tran,Pseudo Course 180
-MATH223,40,Lan Lee,Pseudo Course 181
-MATH224,40,Ngoc Nguyen,Pseudo Course 182
-MATH225,40,Vy Dang,Pseudo Course 183
-MATH330,25,Anh Trinh,Pseudo Course 184
-MATH331,25,Anh Hoang,Pseudo Course 185
-MATH332,25,Trung Tran,Pseudo Course 186
-MATH333,25,Lan Lee,Pseudo Course 187
-MATH334,25,Ngoc Nguyen,Pseudo Course 188
-MATH335,25,Vy Dang,Pseudo Course 189
-HIS110,50,An Nguyen,Pseudo Course 190
-HIS111,50,Quoc Nguyen,Pseudo Course 191
-HIS112,50,Gia Huynh,Pseudo Course 192
-HIS113,50,Khoa Le,Pseudo Course 193
-HIS114,50,Nhat Le,Pseudo Course 194
-HIS115,50,Bao Tran,Pseudo Course 195
-HIS220,40,An Nguyen,Pseudo Course 196
-HIS221,40,Quoc Nguyen,Pseudo Course 197
-HIS222,40,Gia Huynh,Pseudo Course 198
-HIS223,40,Khoa Le,Pseudo Course 199
-HIS224,40,Nhat Le,Pseudo Course 200
-HIS225,40,Bao Tran,Pseudo Course 201
-HIS330,25,An Nguyen,Pseudo Course 202
-HIS331,25,Quoc Nguyen,Pseudo Course 203
-HIS332,25,Gia Huynh,Pseudo Course 204
-HIS333,25,Khoa Le,Pseudo Course 205
-HIS334,25,Nhat Le,Pseudo Course 206
-HIS335,25,Bao Tran,Pseudo Course 207
-IS110,50,Minh Lai,Pseudo Course 208
-IS111,50,Ha Tran,Pseudo Course 209
-IS112,50,Thanh Le,Pseudo Course 210
-IS113,50,Bao Chu,Pseudo Course 211
-IS114,50,Linh Tang,Pseudo Course 212
-IS115,50,Nhat Truong,Pseudo Course 213
-IS220,40,Minh Lai,Pseudo Course 214
-IS221,40,Ha Tran,Pseudo Course 215
-IS222,40,Thanh Le,Pseudo Course 216
-IS223,40,Bao Chu,Pseudo Course 217
-IS224,40,Linh Tang,Pseudo Course 218
-IS225,40,Nhat Truong,Pseudo Course 219
-IS330,25,Minh Lai,Pseudo Course 220
-IS331,25,Ha Tran,Pseudo Course 221
-IS332,25,Thanh Le,Pseudo Course 222
-IS333,25,Bao Chu,Pseudo Course 223
-IS334,25,Linh Tang,Pseudo Course 224
-IS335,25,Nhat Truong,Pseudo Course 225
-LIT110,50,Tuan Ha,Pseudo Course 226
-LIT111,50,Hung Dang,Pseudo Course 227
-LIT112,50,Shyn Nguyen,Pseudo Course 228
-LIT113,50,Long Tran,Pseudo Course 229
-LIT114,50,Dong Nguyen,Pseudo Course 230
-LIT115,50,Toan Nguyen,Pseudo Course 231
-LIT220,40,Tuan Ha,Pseudo Course 232
-LIT221,40,Hung Dang,Pseudo Course 233
-LIT222,40,Shyn Nguyen,Pseudo Course 234
-LIT223,40,Long Tran,Pseudo Course 235
-LIT224,40,Dong Nguyen,Pseudo Course 236
-LIT225,40,Toan Nguyen,Pseudo Course 237
-LIT330,25,Tuan Ha,Pseudo Course 238
-LIT331,25,Hung Dang,Pseudo Course 239
-LIT332,25,Shyn Nguyen,Pseudo Course 240
-LIT333,25,Long Tran,Pseudo Course 241
-LIT334,25,Dong Nguyen,Pseudo Course 242
-LIT335,25,Toan Nguyen,Pseudo Course 243
-PSY110,50,Phuoc Le,Pseudo Course 244
-PSY111,50,Loan Do,Pseudo Course 245
-PSY112,50,Tony Pham,Pseudo Course 246
-PSY113,50,Steve Wayne,Pseudo Course 247
-PSY114,50,Chris Rogers,Pseudo Course 248
-PSY115,50,Henry Law,Pseudo Course 249
-PSY220,40,Phuoc Le,Pseudo Course 250
-PSY221,40,Loan Do,Pseudo Course 251
-PSY222,40,Tony Pham,Pseudo Course 252
-PSY223,40,Steve Wayne,Pseudo Course 253
-PSY224,40,Chris Rogers,Pseudo Course 254
-PSY225,40,Henry Law,Pseudo Course 255
-PSY330,25,Phuoc Le,Pseudo Course 256
-PSY331,25,Loan Do,Pseudo Course 257
-PSY332,25,Tony Pham,Pseudo Course 258
-PSY333,25,Steve Wayne,Pseudo Course 259
-PSY334,25,Chris Rogers,Pseudo Course 260
-PSY335,25,Henry Law,Pseudo Course 261
-SOCI110,50,Marshall Rain,Pseudo Course 262
-SOCI111,50,Jack Barnes,Pseudo Course 263
-SOCI112,50,Johnny Lake,Pseudo Course 264
-SOCI113,50,Sharon Wilson,Pseudo Course 265
-SOCI114,50,Natasha Morita,Pseudo Course 266
-SOCI115,50,Elizabeth Rhodes,Pseudo Course 267
-SOCI220,40,Marshall Rain,Pseudo Course 268
-SOCI221,40,Jack Barnes,Pseudo Course 269
-SOCI222,40,Johnny Lake,Pseudo Course 270
-SOCI223,40,Sharon Wilson,Pseudo Course 271
-SOCI224,40,Natasha Morita,Pseudo Course 272
-SOCI225,40,Elizabeth Rhodes,Pseudo Course 273
-SOCI330,25,Marshall Rain,Pseudo Course 274
-SOCI331,25,Jack Barnes,Pseudo Course 275
-SOCI332,25,Johnny Lake,Pseudo Course 276
-SOCI333,25,Sharon Wilson,Pseudo Course 277
-SOCI334,25,Natasha Morita,Pseudo Course 278
-SOCI335,25,Elizabeth Rhodes,Pseudo Course 279
-VS110,50,Wendy Singh,Pseudo Course 280
-VS111,50,June Agutter,Pseudo Course 281
-VS112,50,Robert Stan,Pseudo Course 282
-VS113,50,Toby Cooper,Pseudo Course 283
-VS114,50,Dominic Coleman,Pseudo Course 284
-VS115,50,Andy Mackie,Pseudo Course 285
-VS220,40,Wendy Singh,Pseudo Course 286
-VS221,40,June Agutter,Pseudo Course 287
-VS222,40,Robert Stan,Pseudo Course 288
-VS223,40,Toby Cooper,Pseudo Course 289
-VS224,40,Dominic Coleman,Pseudo Course 290
-VS225,40,Andy Mackie,Pseudo Course 291
-VS330,25,Wendy Singh,Pseudo Course 292
-VS331,25,June Agutter,Pseudo Course 293
-VS332,25,Robert Stan,Pseudo Course 294
-VS333,25,Toby Cooper,Pseudo Course 295
-VS334,25,Dominic Coleman,Pseudo Course 296
-VS335,25,Andy Mackie,Pseudo Course 297
-ARTS140,50,John Le,Pseudo Course 298
-ARTS141,50,Bruce Dang,Pseudo Course 299
-ARTS142,50,David Bui,Pseudo Course 300
-ARTS143,50,Linh Phan,Pseudo Course 301
-ARTS144,50,Hoang Lee,Pseudo Course 302
-ARTS145,50,Lan Hua,Pseudo Course 303
-ARTS250,40,John Le,Pseudo Course 304
-ARTS251,40,Bruce Dang,Pseudo Course 305
-ARTS252,40,David Bui,Pseudo Course 306
-ARTS253,40,Linh Phan,Pseudo Course 307
-ARTS254,40,Hoang Lee,Pseudo Course 308
-ARTS255,40,Lan Hua,Pseudo Course 309
-ARTS360,25,John Le,Pseudo Course 310
-ARTS361,25,Bruce Dang,Pseudo Course 311
-ARTS362,25,David Bui,Pseudo Course 312
-ARTS363,25,Linh Phan,Pseudo Course 313
-ARTS364,25,Hoang Lee,Pseudo Course 314
-ARTS365,25,Lan Hua,Pseudo Course 315
-ECON140,50,Thomas Luong,Pseudo Course 316
-ECON141,50,Ha Dinh,Pseudo Course 317
-ECON142,50,Vinh Huynh,Pseudo Course 318
-ECON143,50,Dan Nguyen,Pseudo Course 319
-ECON144,50,Daniel Chu,Pseudo Course 320
-ECON145,50,Richard Le,Pseudo Course 321
-ECON250,40,Thomas Luong,Pseudo Course 322
-ECON251,40,Ha Dinh,Pseudo Course 323
-ECON252,40,Vinh Huynh,Pseudo Course 324
-ECON253,40,Dan Nguyen,Pseudo Course 325
-ECON254,40,Daniel Chu,Pseudo Course 326
-ECON255,40,Richard Le,Pseudo Course 327
-ECON360,25,Thomas Luong,Pseudo Course 328
-ECON361,25,Ha Dinh,Pseudo Course 329
-ECON362,25,Vinh Huynh,Pseudo Course 330
-ECON363,25,Dan Nguyen,Pseudo Course 331
-ECON364,25,Daniel Chu,Pseudo Course 332
-ECON365,25,Richard Le,Pseudo Course 333
-ENG140,50,Phuong Ho,Pseudo Course 334
-ENG141,50,Khang Trinh,Pseudo Course 335
-ENG142,50,Khanh Nguyen,Pseudo Course 336
-ENG143,50,Huyen Pham,Pseudo Course 337
-ENG144,50,Minh Phan,Pseudo Course 338
-ENG145,50,Tyler Tran,Pseudo Course 339
-ENG360,25,Phuong Ho,Pseudo Course 340
-ENG361,25,Khang Trinh,Pseudo Course 341
-ENG362,25,Khanh Nguyen,Pseudo Course 342
-ENG363,25,Huyen Pham,Pseudo Course 343
-ENG364,25,Minh Phan,Pseudo Course 344
-ENG365,25,Tyler Tran,Pseudo Course 345
-ENG360,25,Phuong Ho,Pseudo Course 346
-ENG361,25,Khang Trinh,Pseudo Course 347
-ENG362,25,Khanh Nguyen,Pseudo Course 348
-ENG363,25,Huyen Pham,Pseudo Course 349
-ENG364,25,Minh Phan,Pseudo Course 350
-ENG365,25,Tyler Tran,Pseudo Course 351
-MATH140,50,Anh Trinh,Pseudo Course 352
-MATH141,50,Anh Hoang,Pseudo Course 353
-MATH142,50,Trung Tran,Pseudo Course 354
-MATH143,50,Lan Lee,Pseudo Course 355
-MATH144,50,Ngoc Nguyen,Pseudo Course 356
-MATH145,50,Vy Dang,Pseudo Course 357
-MATH360,25,Anh Trinh,Pseudo Course 358
-MATH361,25,Anh Hoang,Pseudo Course 359
-MATH362,25,Trung Tran,Pseudo Course 360
-MATH363,25,Lan Lee,Pseudo Course 361
-MATH364,25,Ngoc Nguyen,Pseudo Course 362
-MATH365,25,Vy Dang,Pseudo Course 363
-MATH360,25,Anh Trinh,Pseudo Course 364
-MATH361,25,Anh Hoang,Pseudo Course 365
-MATH362,25,Trung Tran,Pseudo Course 366
-MATH363,25,Lan Lee,Pseudo Course 367
-MATH364,25,Ngoc Nguyen,Pseudo Course 368
-MATH365,25,Vy Dang,Pseudo Course 369
-HIS140,50,An Nguyen,Pseudo Course 370
-HIS141,50,Quoc Nguyen,Pseudo Course 371
-HIS142,50,Gia Huynh,Pseudo Course 372
-HIS143,50,Khoa Le,Pseudo Course 373
-HIS144,50,Nhat Le,Pseudo Course 374
-HIS145,50,Bao Tran,Pseudo Course 375
-HIS360,25,An Nguyen,Pseudo Course 376
-HIS361,25,Quoc Nguyen,Pseudo Course 377
-HIS362,25,Gia Huynh,Pseudo Course 378
-HIS363,25,Khoa Le,Pseudo Course 379
-HIS364,25,Nhat Le,Pseudo Course 380
-HIS365,25,Bao Tran,Pseudo Course 381
-IS140,50,Minh Lai,Pseudo Course 382
-IS141,50,Ha Tran,Pseudo Course 383
-IS142,50,Thanh Le,Pseudo Course 384
-IS143,50,Bao Chu,Pseudo Course 385
-IS144,50,Linh Tang,Pseudo Course 386
-IS145,50,Nhat Truong,Pseudo Course 387
-IS360,25,Minh Lai,Pseudo Course 388
-IS361,25,Ha Tran,Pseudo Course 389
-IS362,25,Thanh Le,Pseudo Course 390
-IS363,25,Bao Chu,Pseudo Course 391
-IS364,25,Linh Tang,Pseudo Course 392
-IS365,25,Nhat Truong,Pseudo Course 393
-LIT140,50,Tuan Ha,Pseudo Course 394
-LIT141,50,Hung Dang,Pseudo Course 395
-LIT142,50,Shyn Nguyen,Pseudo Course 396
-LIT143,50,Long Tran,Pseudo Course 397
-LIT144,50,Dong Nguyen,Pseudo Course 398
-LIT145,50,Toan Nguyen,Pseudo Course 399
-LIT360,25,Tuan Ha,Pseudo Course 400
-LIT361,25,Hung Dang,Pseudo Course 401
-LIT362,25,Shyn Nguyen,Pseudo Course 402
-LIT363,25,Long Tran,Pseudo Course 403
-LIT364,25,Dong Nguyen,Pseudo Course 404
-LIT365,25,Toan Nguyen,Pseudo Course 405
-PSY140,50,Phuoc Le,Pseudo Course 406
-PSY141,50,Loan Do,Pseudo Course 407
-PSY142,50,Tony Pham,Pseudo Course 408
-PSY143,50,Steve Wayne,Pseudo Course 409
-PSY144,50,Chris Rogers,Pseudo Course 410
-PSY145,50,Henry Law,Pseudo Course 411
-PSY360,25,Phuoc Le,Pseudo Course 412
-PSY361,25,Loan Do,Pseudo Course 413
-PSY362,25,Tony Pham,Pseudo Course 414
-PSY363,25,Steve Wayne,Pseudo Course 415
-PSY364,25,Chris Rogers,Pseudo Course 416
-PSY365,25,Henry Law,Pseudo Course 417
-SOCI140,50,Marshall Rain,Pseudo Course 418
-SOCI141,50,Jack Barnes,Pseudo Course 419
-SOCI142,50,Johnny Lake,Pseudo Course 420
-SOCI143,50,Sharon Wilson,Pseudo Course 421
-SOCI144,50,Natasha Morita,Pseudo Course 422
-SOCI145,50,Elizabeth Rhodes,Pseudo Course 423
-SOCI360,25,Marshall Rain,Pseudo Course 424
-SOCI361,25,Jack Barnes,Pseudo Course 425
-SOCI362,25,Johnny Lake,Pseudo Course 426
-SOCI363,25,Sharon Wilson,Pseudo Course 427
-SOCI364,25,Natasha Morita,Pseudo Course 428
-SOCI365,25,Elizabeth Rhodes,Pseudo Course 429
-VS140,50,Wendy Singh,Pseudo Course 430
-VS141,50,June Agutter,Pseudo Course 431
-VS142,50,Robert Stan,Pseudo Course 432
-VS143,50,Toby Cooper,Pseudo Course 433
-VS144,50,Dominic Coleman,Pseudo Course 434
-VS145,50,Andy Mackie,Pseudo Course 435
-VS360,25,Wendy Singh,Pseudo Course 436
-VS361,25,June Agutter,Pseudo Course 437
-VS362,25,Robert Stan,Pseudo Course 438
-VS363,25,Toby Cooper,Pseudo Course 439
-VS364,25,Dominic Coleman,Pseudo Course 440
-VS365,25,Andy Mackie,Pseudo Course 441
-CS140,50,Sebastian Vu,Pseudo Course 442
-CS141,50,Nanette Le,Pseudo Course 443
-CS142,50,Tien Truong,Pseudo Course 444
-CS143,50,Cuong Nguyen,Pseudo Course 445
-CS144,50,Jill Pham,Pseudo Course 446
-CS145,50,Vincent Hoang,Pseudo Course 447
-CS360,25,Sebastian Vu,Pseudo Course 448
-CS361,25,Nanette Le,Pseudo Course 449
-CS362,25,Tien Truong,Pseudo Course 450
-CS363,25,Cuong Nguyen,Pseudo Course 451
-CS364,25,Jill Pham,Pseudo Course 452
-CS365,25,Vincent Hoang,Pseudo Course 453
+﻿course_number,capacity,instructor,name,continous_timeslot
+ARTS 101-1,50,Tram Luong,Introduction to Visual Studies,0
+ARTS 101-2,50,Richard Streitmatter-Tran,Introduction to Visual Studies,1
+ARTS 102,50,Pamela Corey,Introduction to Art History and Theory,1
+ARTS 104,50,Aaron Toronto,Video and Film Production,1
+ARTS 107,50,Richard Streitmatter-Tran,2D/3D Foundations,0
+ARTS 206,40,Aaron Toronto,Principles of Acting,0
+ARTS 211,40,Linda Zhang,"Alien, Uncanny, Strange in E. Asian Cinema",0
+ARTS 303,25,Jacqueline Hoang-Nguyen,Sound Art,1
+ARTS 398,25,Pamela Corey,Independent Study: Advanced Readings in Theory,1
+CORE 101-1,50,Tobias Burgers,Global Humanities and Social Change,1
+CORE 101-2,50,Mark Frank,Global Humanities and Social Change,0
+CORE 101-3,50,Matthew McDonald,Global Humanities and Social Change,0
+CORE 101-4,50,Ian Kalman,Global Humanities and Social Change,0
+CORE 101-5,50,Linda Zhang,Global Humanities and Social Change,1
+CORE 101-6,50,Elsa Costa,Global Humanities and Social Change,1
+CORE 103-1,50,Ngoc Phan,Quantitative Reasoning for a Digital Age,1
+CORE 103-2,50,Trung Phan,Quantitative Reasoning for a Digital Age,1
+CORE 103-3,50,Linh Huynh,Quantitative Reasoning for a Digital Age,0
+CORE 103-4,50,Lan Nguyen,Quantitative Reasoning for a Digital Age,0
+CORE 103-5,50,Hoang Khieu,Quantitative Reasoning for a Digital Age,1
+CORE 104-1,50,Dung Nguyen,Scientific Inquiry,0
+CORE 104-2,50,Trang Nguyen,Scientific Inquiry,1
+CORE 104-3,50,Huyen Trang Nguyen,Scientific Inquiry,0
+CORE 104-4,50,Hoa Nguyen,Scientific Inquiry,1
+CORE 105-1,50,Kien Truong,Design and Systems Thinking,1
+CORE 105-2,50,Minh Nguyen,Design and Systems Thinking,0
+CORE 105-3,50,Duong Phung,Design and Systems Thinking,1
+CORE 105-4,50,Minh Doan,Design and Systems Thinking,1
+CORE 105-5,50,Quan Le,Design and Systems Thinking,0
+CS101,50,Trung Phan,Computer Science I,1
+CS102,50,Linh Huynh,Algorithm,0
+CS203,40,Kien Truong,Computer Organization,1
+CS208,40,Dang Huynh,Machine Learning for Data Science,1
+CS306,25,Nhut Nguyen,Network and Computer Security ,1
+CS307,25,Vincent Ng,Introduction to Machine Learning,1
+CS309,25,Synh Ha,Advanced Programming Techniques,1
+ECON101,50,Lan Nguyen,Principles of Economics 1,0
+ECON103,50,Hoang Khieu,Principles of Economics 2,1
+ECON209,40,Ngoc Phan,Econometrics,0
+ECON210,40,Dana Doan,Giving and Effectiveness,0
+ECON302,25,Hoang Khieu,Economics of Inequality,0
+ECON305,25,Graeme Walker,Behavioural and Experimental Economics,0
+ENG102,50,Minh Doan,Engineering Exploration: Sink or Swim,1
+ENG201,40,Quan Le,Product Development,1
+ENG202,40,Duong Phung,Intelligent Robot Studio: From Theory to Practice,0
+ENG204,40,Minh Nguyen,"Sensors, Measurement and Analysis",0
+HIS105,50,Antoine Le,Global History Lab: History of the World,0
+HIS108,50,Sean Fear,US in the World,1
+HIS301,25,Hoang Vu,History of International Communism,1
+HIS304,25,Mark Frank,Asian Borderlands,1
+HIS306,25,Elsa Costa,Race and Empire,0
+IS101,50,Dung Nguyen,Introductory Biology,0
+IS103,50,Huyen Trang Nguyen,Environmental Sciences,1
+IS205,40,Trang Nguyen,Organic Chemistry,0
+LIT101,50,Isadora Wagner,Foundations in Literary Studies,1
+LIT103,50,Yen Vu,Critical Methods in Literary Studies,0
+LIT303,25,Yen Vu,"Film, Fiction, and the Making of Modern Vietnams",0
+LIT305,25,Isadora Wagner,Pacific Voyages in Literature & Film,1
+MATH101,50,Hieu Nguyen,Calculus,0
+MATH103,50,Hieu Nguyen,Ideas of Math,0
+MATH105,50,Son Van,Linear Algebra,1
+MATH102,50,Son Van,Introduction to Data Analysis,1
+MATH305,25,Tan Le,Stochastic Calculus,1
+PSY101,50,Thi Lan Nguyen,Introductory Psychology,1
+PSY203,40,Gary Giss,Social Psychology,1
+PSY204,40,Nga Hoang,Personality Psychology,0
+PSY205,40,Matthew McDonald,"Introduction to Psychological Disorders, Diagnosis & Treatment",0
+PSY207,40,Thi Lan Nguyen,Organizational Psychology,1
+PSY302,25,Nga Hoang,Counseling Psychology,1
+SOCI102,50,Ian Kalman,Social Inquiry And the Social Sciences,1
+SOCI105,50,Phuong Vu,Research Methods & Statistics,0
+SOCI109,50,Tram Luong,Ethnographic Research Methods,0
+SOCI211,40,Tobias Burgers,Introduction to Science and Technology Studies,1
+SOCI212,40,Nankyung Choi,South Korea: Society and Culture,1
+SOCI213,40,Nankyung Choi,Women and Politics,1
+VS106,50,Van Phan,Cultural and Intellectual Foundation of Vietnamese Literary Chinese 1,0
+VS114,50,Nicolas Weber,Introduction to Champa and Khmer History,0
+VS116,50,Nam Nguyen,Digital Humanities in Vietnam Studies Contexts I,0
+VS203,40,Trung Nguyen,The Challenge of Change: Civil Society and Social Movements in Vietnam ,1
+VS204,40,Nam Nguyen,The Legacy of the War in Retrospect I,1
+VS210,40,Na Dao,What Movies Show and Don't Show: Film Adaptations in Asian Contexts,1
+VS214,40,Nam Nguyen,Developing Vietnam,0
+VS215,40,Trung Nguyen,Contending Theories of International Relations: A Comprehensive View of Vietnam,1
+VS303,25,Nicolas Weber,Sources for Vietnamese and Southeast Asian History,0
+CS110,50,Sebastian Vu,Pseudo Course 100,1
+CS111,50,Nanette Le,Pseudo Course 101,0
+CS112,50,Tien Truong,Pseudo Course 102,1
+CS113,50,Cuong Nguyen,Pseudo Course 103,1
+CS114,50,Jill Pham,Pseudo Course 104,1
+CS115,50,Vincent Hoang,Pseudo Course 105,0
+CS220,40,Sebastian Vu,Pseudo Course 106,0
+CS221,40,Nanette Le,Pseudo Course 107,0
+CS222,40,Tien Truong,Pseudo Course 108,1
+CS223,40,Cuong Nguyen,Pseudo Course 109,1
+CS224,40,Jill Pham,Pseudo Course 110,1
+CS225,40,Vincent Hoang,Pseudo Course 111,0
+CS330,25,Sebastian Vu,Pseudo Course 112,0
+CS331,25,Nanette Le,Pseudo Course 113,0
+CS332,25,Tien Truong,Pseudo Course 114,1
+CS333,25,Cuong Nguyen,Pseudo Course 115,1
+CS334,25,Jill Pham,Pseudo Course 116,1
+CS335,25,Vincent Hoang,Pseudo Course 117,1
+ARTS110,50,John Le,Pseudo Course 118,0
+ARTS111,50,Bruce Dang,Pseudo Course 119,0
+ARTS112,50,David Bui,Pseudo Course 120,1
+ARTS113,50,Linh Phan,Pseudo Course 121,0
+ARTS114,50,Hoang Lee,Pseudo Course 122,1
+ARTS115,50,Lan Hua,Pseudo Course 123,0
+ARTS220,40,John Le,Pseudo Course 124,1
+ARTS221,40,Bruce Dang,Pseudo Course 125,1
+ARTS222,40,David Bui,Pseudo Course 126,0
+ARTS223,40,Linh Phan,Pseudo Course 127,1
+ARTS224,40,Hoang Lee,Pseudo Course 128,1
+ARTS225,40,Lan Hua,Pseudo Course 129,0
+ARTS330,25,John Le,Pseudo Course 130,1
+ARTS331,25,Bruce Dang,Pseudo Course 131,0
+ARTS332,25,David Bui,Pseudo Course 132,1
+ARTS333,25,Linh Phan,Pseudo Course 133,1
+ARTS334,25,Hoang Lee,Pseudo Course 134,1
+ARTS335,25,Lan Hua,Pseudo Course 135,1
+ECON110,50,Thomas Luong,Pseudo Course 136,1
+ECON111,50,Ha Dinh,Pseudo Course 137,0
+ECON112,50,Vinh Huynh,Pseudo Course 138,1
+ECON113,50,Dan Nguyen,Pseudo Course 139,0
+ECON114,50,Daniel Chu,Pseudo Course 140,0
+ECON115,50,Richard Le,Pseudo Course 141,0
+ECON220,40,Thomas Luong,Pseudo Course 142,0
+ECON221,40,Ha Dinh,Pseudo Course 143,1
+ECON222,40,Vinh Huynh,Pseudo Course 144,1
+ECON223,40,Dan Nguyen,Pseudo Course 145,0
+ECON224,40,Daniel Chu,Pseudo Course 146,0
+ECON225,40,Richard Le,Pseudo Course 147,0
+ECON330,25,Thomas Luong,Pseudo Course 148,1
+ECON331,25,Ha Dinh,Pseudo Course 149,1
+ECON332,25,Vinh Huynh,Pseudo Course 150,1
+ECON333,25,Dan Nguyen,Pseudo Course 151,0
+ECON334,25,Daniel Chu,Pseudo Course 152,0
+ECON335,25,Richard Le,Pseudo Course 153,1
+ENG110,50,Phuong Ho,Pseudo Course 154,0
+ENG111,50,Khang Trinh,Pseudo Course 155,1
+ENG112,50,Khanh Nguyen,Pseudo Course 156,0
+ENG113,50,Huyen Pham,Pseudo Course 157,0
+ENG114,50,Minh Phan,Pseudo Course 158,1
+ENG115,50,Tyler Tran,Pseudo Course 159,0
+ENG220,40,Phuong Ho,Pseudo Course 160,0
+ENG221,40,Khang Trinh,Pseudo Course 161,1
+ENG222,40,Khanh Nguyen,Pseudo Course 162,1
+ENG223,40,Huyen Pham,Pseudo Course 163,1
+ENG224,40,Minh Phan,Pseudo Course 164,1
+ENG225,40,Tyler Tran,Pseudo Course 165,1
+ENG330,25,Phuong Ho,Pseudo Course 166,0
+ENG331,25,Khang Trinh,Pseudo Course 167,0
+ENG332,25,Khanh Nguyen,Pseudo Course 168,1
+ENG333,25,Huyen Pham,Pseudo Course 169,1
+ENG334,25,Minh Phan,Pseudo Course 170,1
+ENG335,25,Tyler Tran,Pseudo Course 171,0
+MATH110,50,Anh Trinh,Pseudo Course 172,0
+MATH111,50,Anh Hoang,Pseudo Course 173,1
+MATH112,50,Trung Tran,Pseudo Course 174,1
+MATH113,50,Lan Lee,Pseudo Course 175,1
+MATH114,50,Ngoc Nguyen,Pseudo Course 176,0
+MATH115,50,Vy Dang,Pseudo Course 177,0
+MATH220,40,Anh Trinh,Pseudo Course 178,0
+MATH221,40,Anh Hoang,Pseudo Course 179,1
+MATH222,40,Trung Tran,Pseudo Course 180,1
+MATH223,40,Lan Lee,Pseudo Course 181,1
+MATH224,40,Ngoc Nguyen,Pseudo Course 182,0
+MATH225,40,Vy Dang,Pseudo Course 183,1
+MATH330,25,Anh Trinh,Pseudo Course 184,0
+MATH331,25,Anh Hoang,Pseudo Course 185,1
+MATH332,25,Trung Tran,Pseudo Course 186,0
+MATH333,25,Lan Lee,Pseudo Course 187,1
+MATH334,25,Ngoc Nguyen,Pseudo Course 188,1
+MATH335,25,Vy Dang,Pseudo Course 189,1
+HIS110,50,An Nguyen,Pseudo Course 190,0
+HIS111,50,Quoc Nguyen,Pseudo Course 191,0
+HIS112,50,Gia Huynh,Pseudo Course 192,0
+HIS113,50,Khoa Le,Pseudo Course 193,1
+HIS114,50,Nhat Le,Pseudo Course 194,1
+HIS115,50,Bao Tran,Pseudo Course 195,1
+HIS220,40,An Nguyen,Pseudo Course 196,0
+HIS221,40,Quoc Nguyen,Pseudo Course 197,0
+HIS222,40,Gia Huynh,Pseudo Course 198,0
+HIS223,40,Khoa Le,Pseudo Course 199,1
+HIS224,40,Nhat Le,Pseudo Course 200,1
+HIS225,40,Bao Tran,Pseudo Course 201,1
+HIS330,25,An Nguyen,Pseudo Course 202,1
+HIS331,25,Quoc Nguyen,Pseudo Course 203,0
+HIS332,25,Gia Huynh,Pseudo Course 204,0
+HIS333,25,Khoa Le,Pseudo Course 205,1
+HIS334,25,Nhat Le,Pseudo Course 206,0
+HIS335,25,Bao Tran,Pseudo Course 207,1
+IS110,50,Minh Lai,Pseudo Course 208,0
+IS111,50,Ha Tran,Pseudo Course 209,1
+IS112,50,Thanh Le,Pseudo Course 210,1
+IS113,50,Bao Chu,Pseudo Course 211,0
+IS114,50,Linh Tang,Pseudo Course 212,1
+IS115,50,Nhat Truong,Pseudo Course 213,1
+IS220,40,Minh Lai,Pseudo Course 214,0
+IS221,40,Ha Tran,Pseudo Course 215,1
+IS222,40,Thanh Le,Pseudo Course 216,0
+IS223,40,Bao Chu,Pseudo Course 217,1
+IS224,40,Linh Tang,Pseudo Course 218,1
+IS225,40,Nhat Truong,Pseudo Course 219,1
+IS330,25,Minh Lai,Pseudo Course 220,1
+IS331,25,Ha Tran,Pseudo Course 221,1
+IS332,25,Thanh Le,Pseudo Course 222,0
+IS333,25,Bao Chu,Pseudo Course 223,1
+IS334,25,Linh Tang,Pseudo Course 224,0
+IS335,25,Nhat Truong,Pseudo Course 225,0
+LIT110,50,Tuan Ha,Pseudo Course 226,0
+LIT111,50,Hung Dang,Pseudo Course 227,0
+LIT112,50,Shyn Nguyen,Pseudo Course 228,1
+LIT113,50,Long Tran,Pseudo Course 229,1
+LIT114,50,Dong Nguyen,Pseudo Course 230,0
+LIT115,50,Toan Nguyen,Pseudo Course 231,0
+LIT220,40,Tuan Ha,Pseudo Course 232,0
+LIT221,40,Hung Dang,Pseudo Course 233,1
+LIT222,40,Shyn Nguyen,Pseudo Course 234,1
+LIT223,40,Long Tran,Pseudo Course 235,1
+LIT224,40,Dong Nguyen,Pseudo Course 236,0
+LIT225,40,Toan Nguyen,Pseudo Course 237,0
+LIT330,25,Tuan Ha,Pseudo Course 238,1
+LIT331,25,Hung Dang,Pseudo Course 239,0
+LIT332,25,Shyn Nguyen,Pseudo Course 240,1
+LIT333,25,Long Tran,Pseudo Course 241,0
+LIT334,25,Dong Nguyen,Pseudo Course 242,0
+LIT335,25,Toan Nguyen,Pseudo Course 243,1
+PSY110,50,Phuoc Le,Pseudo Course 244,0
+PSY111,50,Loan Do,Pseudo Course 245,0
+PSY112,50,Tony Pham,Pseudo Course 246,1
+PSY113,50,Steve Wayne,Pseudo Course 247,1
+PSY114,50,Chris Rogers,Pseudo Course 248,1
+PSY115,50,Henry Law,Pseudo Course 249,1
+PSY220,40,Phuoc Le,Pseudo Course 250,1
+PSY221,40,Loan Do,Pseudo Course 251,0
+PSY222,40,Tony Pham,Pseudo Course 252,0
+PSY223,40,Steve Wayne,Pseudo Course 253,1
+PSY224,40,Chris Rogers,Pseudo Course 254,1
+PSY225,40,Henry Law,Pseudo Course 255,1
+PSY330,25,Phuoc Le,Pseudo Course 256,0
+PSY331,25,Loan Do,Pseudo Course 257,0
+PSY332,25,Tony Pham,Pseudo Course 258,1
+PSY333,25,Steve Wayne,Pseudo Course 259,1
+PSY334,25,Chris Rogers,Pseudo Course 260,1
+PSY335,25,Henry Law,Pseudo Course 261,0
+SOCI110,50,Marshall Rain,Pseudo Course 262,0
+SOCI111,50,Jack Barnes,Pseudo Course 263,0
+SOCI112,50,Johnny Lake,Pseudo Course 264,1
+SOCI113,50,Sharon Wilson,Pseudo Course 265,1
+SOCI114,50,Natasha Morita,Pseudo Course 266,1
+SOCI115,50,Elizabeth Rhodes,Pseudo Course 267,0
+SOCI220,40,Marshall Rain,Pseudo Course 268,1
+SOCI221,40,Jack Barnes,Pseudo Course 269,0
+SOCI222,40,Johnny Lake,Pseudo Course 270,1
+SOCI223,40,Sharon Wilson,Pseudo Course 271,0
+SOCI224,40,Natasha Morita,Pseudo Course 272,1
+SOCI225,40,Elizabeth Rhodes,Pseudo Course 273,1
+SOCI330,25,Marshall Rain,Pseudo Course 274,1
+SOCI331,25,Jack Barnes,Pseudo Course 275,0
+SOCI332,25,Johnny Lake,Pseudo Course 276,0
+SOCI333,25,Sharon Wilson,Pseudo Course 277,0
+SOCI334,25,Natasha Morita,Pseudo Course 278,1
+SOCI335,25,Elizabeth Rhodes,Pseudo Course 279,1
+VS110,50,Wendy Singh,Pseudo Course 280,1
+VS111,50,June Agutter,Pseudo Course 281,0
+VS112,50,Robert Stan,Pseudo Course 282,0
+VS113,50,Toby Cooper,Pseudo Course 283,0
+VS114,50,Dominic Coleman,Pseudo Course 284,1
+VS115,50,Andy Mackie,Pseudo Course 285,1
+VS220,40,Wendy Singh,Pseudo Course 286,1
+VS221,40,June Agutter,Pseudo Course 287,1
+VS222,40,Robert Stan,Pseudo Course 288,0
+VS223,40,Toby Cooper,Pseudo Course 289,0
+VS224,40,Dominic Coleman,Pseudo Course 290,1
+VS225,40,Andy Mackie,Pseudo Course 291,0
+VS330,25,Wendy Singh,Pseudo Course 292,1
+VS331,25,June Agutter,Pseudo Course 293,0
+VS332,25,Robert Stan,Pseudo Course 294,1
+VS333,25,Toby Cooper,Pseudo Course 295,1
+VS334,25,Dominic Coleman,Pseudo Course 296,0
+VS335,25,Andy Mackie,Pseudo Course 297,1
+ARTS140,50,John Le,Pseudo Course 298,1
+ARTS141,50,Bruce Dang,Pseudo Course 299,0
+ARTS142,50,David Bui,Pseudo Course 300,1
+ARTS143,50,Linh Phan,Pseudo Course 301,0
+ARTS144,50,Hoang Lee,Pseudo Course 302,1
+ARTS145,50,Lan Hua,Pseudo Course 303,1
+ARTS250,40,John Le,Pseudo Course 304,1
+ARTS251,40,Bruce Dang,Pseudo Course 305,1
+ARTS252,40,David Bui,Pseudo Course 306,1
+ARTS253,40,Linh Phan,Pseudo Course 307,0
+ARTS254,40,Hoang Lee,Pseudo Course 308,1
+ARTS255,40,Lan Hua,Pseudo Course 309,0
+ARTS360,25,John Le,Pseudo Course 310,0
+ARTS361,25,Bruce Dang,Pseudo Course 311,0
+ARTS362,25,David Bui,Pseudo Course 312,0
+ARTS363,25,Linh Phan,Pseudo Course 313,1
+ARTS364,25,Hoang Lee,Pseudo Course 314,1
+ARTS365,25,Lan Hua,Pseudo Course 315,0
+ECON140,50,Thomas Luong,Pseudo Course 316,0
+ECON141,50,Ha Dinh,Pseudo Course 317,0
+ECON142,50,Vinh Huynh,Pseudo Course 318,1
+ECON143,50,Dan Nguyen,Pseudo Course 319,1
+ECON144,50,Daniel Chu,Pseudo Course 320,1
+ECON145,50,Richard Le,Pseudo Course 321,0
+ECON250,40,Thomas Luong,Pseudo Course 322,0
+ECON251,40,Ha Dinh,Pseudo Course 323,1
+ECON252,40,Vinh Huynh,Pseudo Course 324,0
+ECON253,40,Dan Nguyen,Pseudo Course 325,1
+ECON254,40,Daniel Chu,Pseudo Course 326,0
+ECON255,40,Richard Le,Pseudo Course 327,0
+ECON360,25,Thomas Luong,Pseudo Course 328,1
+ECON361,25,Ha Dinh,Pseudo Course 329,0
+ECON362,25,Vinh Huynh,Pseudo Course 330,0
+ECON363,25,Dan Nguyen,Pseudo Course 331,1
+ECON364,25,Daniel Chu,Pseudo Course 332,1
+ECON365,25,Richard Le,Pseudo Course 333,1
+ENG140,50,Phuong Ho,Pseudo Course 334,1
+ENG141,50,Khang Trinh,Pseudo Course 335,1
+ENG142,50,Khanh Nguyen,Pseudo Course 336,0
+ENG143,50,Huyen Pham,Pseudo Course 337,0
+ENG144,50,Minh Phan,Pseudo Course 338,1
+ENG145,50,Tyler Tran,Pseudo Course 339,1
+ENG360,25,Phuong Ho,Pseudo Course 340,1
+ENG361,25,Khang Trinh,Pseudo Course 341,0
+ENG362,25,Khanh Nguyen,Pseudo Course 342,0
+ENG363,25,Huyen Pham,Pseudo Course 343,1
+ENG364,25,Minh Phan,Pseudo Course 344,1
+ENG365,25,Tyler Tran,Pseudo Course 345,1
+ENG360,25,Phuong Ho,Pseudo Course 346,0
+ENG361,25,Khang Trinh,Pseudo Course 347,0
+ENG362,25,Khanh Nguyen,Pseudo Course 348,0
+ENG363,25,Huyen Pham,Pseudo Course 349,1
+ENG364,25,Minh Phan,Pseudo Course 350,1
+ENG365,25,Tyler Tran,Pseudo Course 351,1
+MATH140,50,Anh Trinh,Pseudo Course 352,0
+MATH141,50,Anh Hoang,Pseudo Course 353,1
+MATH142,50,Trung Tran,Pseudo Course 354,0
+MATH143,50,Lan Lee,Pseudo Course 355,1
+MATH144,50,Ngoc Nguyen,Pseudo Course 356,0
+MATH145,50,Vy Dang,Pseudo Course 357,1
+MATH360,25,Anh Trinh,Pseudo Course 358,1
+MATH361,25,Anh Hoang,Pseudo Course 359,1
+MATH362,25,Trung Tran,Pseudo Course 360,0
+MATH363,25,Lan Lee,Pseudo Course 361,0
+MATH364,25,Ngoc Nguyen,Pseudo Course 362,0
+MATH365,25,Vy Dang,Pseudo Course 363,1
+MATH360,25,Anh Trinh,Pseudo Course 364,1
+MATH361,25,Anh Hoang,Pseudo Course 365,1
+MATH362,25,Trung Tran,Pseudo Course 366,0
+MATH363,25,Lan Lee,Pseudo Course 367,0
+MATH364,25,Ngoc Nguyen,Pseudo Course 368,0
+MATH365,25,Vy Dang,Pseudo Course 369,1
+HIS140,50,An Nguyen,Pseudo Course 370,1
+HIS141,50,Quoc Nguyen,Pseudo Course 371,1
+HIS142,50,Gia Huynh,Pseudo Course 372,1
+HIS143,50,Khoa Le,Pseudo Course 373,0
+HIS144,50,Nhat Le,Pseudo Course 374,0
+HIS145,50,Bao Tran,Pseudo Course 375,1
+HIS360,25,An Nguyen,Pseudo Course 376,0
+HIS361,25,Quoc Nguyen,Pseudo Course 377,1
+HIS362,25,Gia Huynh,Pseudo Course 378,0
+HIS363,25,Khoa Le,Pseudo Course 379,1
+HIS364,25,Nhat Le,Pseudo Course 380,1
+HIS365,25,Bao Tran,Pseudo Course 381,0
+IS140,50,Minh Lai,Pseudo Course 382,1
+IS141,50,Ha Tran,Pseudo Course 383,1
+IS142,50,Thanh Le,Pseudo Course 384,0
+IS143,50,Bao Chu,Pseudo Course 385,1
+IS144,50,Linh Tang,Pseudo Course 386,0
+IS145,50,Nhat Truong,Pseudo Course 387,1
+IS360,25,Minh Lai,Pseudo Course 388,1
+IS361,25,Ha Tran,Pseudo Course 389,1
+IS362,25,Thanh Le,Pseudo Course 390,1
+IS363,25,Bao Chu,Pseudo Course 391,1
+IS364,25,Linh Tang,Pseudo Course 392,0
+IS365,25,Nhat Truong,Pseudo Course 393,1
+LIT140,50,Tuan Ha,Pseudo Course 394,0
+LIT141,50,Hung Dang,Pseudo Course 395,0
+LIT142,50,Shyn Nguyen,Pseudo Course 396,0
+LIT143,50,Long Tran,Pseudo Course 397,0
+LIT144,50,Dong Nguyen,Pseudo Course 398,1
+LIT145,50,Toan Nguyen,Pseudo Course 399,1
+LIT360,25,Tuan Ha,Pseudo Course 400,0
+LIT361,25,Hung Dang,Pseudo Course 401,0
+LIT362,25,Shyn Nguyen,Pseudo Course 402,0
+LIT363,25,Long Tran,Pseudo Course 403,1
+LIT364,25,Dong Nguyen,Pseudo Course 404,1
+LIT365,25,Toan Nguyen,Pseudo Course 405,1
+PSY140,50,Phuoc Le,Pseudo Course 406,0
+PSY141,50,Loan Do,Pseudo Course 407,0
+PSY142,50,Tony Pham,Pseudo Course 408,1
+PSY143,50,Steve Wayne,Pseudo Course 409,0
+PSY144,50,Chris Rogers,Pseudo Course 410,1
+PSY145,50,Henry Law,Pseudo Course 411,0
+PSY360,25,Phuoc Le,Pseudo Course 412,0
+PSY361,25,Loan Do,Pseudo Course 413,1
+PSY362,25,Tony Pham,Pseudo Course 414,0
+PSY363,25,Steve Wayne,Pseudo Course 415,0
+PSY364,25,Chris Rogers,Pseudo Course 416,1
+PSY365,25,Henry Law,Pseudo Course 417,1
+SOCI140,50,Marshall Rain,Pseudo Course 418,1
+SOCI141,50,Jack Barnes,Pseudo Course 419,1
+SOCI142,50,Johnny Lake,Pseudo Course 420,1
+SOCI143,50,Sharon Wilson,Pseudo Course 421,0
+SOCI144,50,Natasha Morita,Pseudo Course 422,0
+SOCI145,50,Elizabeth Rhodes,Pseudo Course 423,1
+SOCI360,25,Marshall Rain,Pseudo Course 424,1
+SOCI361,25,Jack Barnes,Pseudo Course 425,1
+SOCI362,25,Johnny Lake,Pseudo Course 426,0
+SOCI363,25,Sharon Wilson,Pseudo Course 427,0
+SOCI364,25,Natasha Morita,Pseudo Course 428,1
+SOCI365,25,Elizabeth Rhodes,Pseudo Course 429,1
+VS140,50,Wendy Singh,Pseudo Course 430,1
+VS141,50,June Agutter,Pseudo Course 431,0
+VS142,50,Robert Stan,Pseudo Course 432,0
+VS143,50,Toby Cooper,Pseudo Course 433,0
+VS144,50,Dominic Coleman,Pseudo Course 434,1
+VS145,50,Andy Mackie,Pseudo Course 435,1
+VS360,25,Wendy Singh,Pseudo Course 436,1
+VS361,25,June Agutter,Pseudo Course 437,0
+VS362,25,Robert Stan,Pseudo Course 438,1
+VS363,25,Toby Cooper,Pseudo Course 439,0
+VS364,25,Dominic Coleman,Pseudo Course 440,1
+VS365,25,Andy Mackie,Pseudo Course 441,0
+CS140,50,Sebastian Vu,Pseudo Course 442,1
+CS141,50,Nanette Le,Pseudo Course 443,1
+CS142,50,Tien Truong,Pseudo Course 444,1
+CS143,50,Cuong Nguyen,Pseudo Course 445,0
+CS144,50,Jill Pham,Pseudo Course 446,0
+CS145,50,Vincent Hoang,Pseudo Course 447,0
+CS360,25,Sebastian Vu,Pseudo Course 448,1
+CS361,25,Nanette Le,Pseudo Course 449,1
+CS362,25,Tien Truong,Pseudo Course 450,1
+CS363,25,Cuong Nguyen,Pseudo Course 451,0
+CS364,25,Jill Pham,Pseudo Course 452,0
+CS365,25,Vincent Hoang,Pseudo Course 453,0
